@@ -64,7 +64,7 @@
 2.Найти метод public void testDifferenceOfTwoIntegers() 
 3.Слева на панели нажать на "Run test"
 ```
-![](/Users/ekaterinastepanuk/IdeaProjects/QIAuto/docs/testDifferenceOfTwoIntegers.png)
+!["Разница двух целых чисел"](https://github.com/estepanyuk/QIAuto/blob/4774432445ed11a8aead98083a24815b434ab8e0/docs/testDifferenceOfTwoIntegers.png)
 
 ```bash
 Кейс 2 "Конкатенация двух строк":
@@ -72,7 +72,7 @@
 2.Найти метод public void testConcatOfTwoStrings() 
 3.Слева на панели нажать на "Run test"
 ```
-![](/Users/ekaterinastepanuk/IdeaProjects/QIAuto/docs/testConcatOfTwoStrings.png)
+!["Конкатенация двух строк"](https://github.com/estepanyuk/QIAuto/blob/4774432445ed11a8aead98083a24815b434ab8e0/docs/testConcatOfTwoStrings.png)
 
 ```bash
 Кейс 3 "Появление сообщения при вводе строки в поле":
@@ -80,7 +80,8 @@
 2.Найти метод  public void testRandomNumber() 
 3.Слева на панели нажать на "Run test"
 ```
-![](/Users/ekaterinastepanuk/IdeaProjects/QIAuto/docs/testRandomNumber.png)
+!["Появление сообщения при вводе строки в пол"](https://github.com/estepanyuk/QIAuto/blob/4774432445ed11a8aead98083a24815b434ab8e0/docs/testRandomNumber.png)
+
 
 ## Для реализации данной задачи использовались:
 1. Java/Kotlin
