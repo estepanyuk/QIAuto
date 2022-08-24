@@ -46,7 +46,7 @@
 │                   │   ├── BasicCalculatorPage.java //Класс для страницы BasicCalculator
 │                   │   └── RandomNumberPage.java //Класс для страницы RandomNumber
 │                   └── test
-│                       ├── BaseTest.java //Родительский файл для тестов
+│                       ├── BaseTest.java //Родительский класс для тестов
 │                       ├── BasicCalculatorTest.java //Класс для тестов со страницы BasicCalculator
 │                       └── RandomNumberTest.java //Класс для тестов со страницы RandomNumber
 └── webdriver 
@@ -54,8 +54,8 @@
 ```
 # Предпосылки
 **Для того что бы тесты запускались необходимо скачать chromedriver под свою операционную систему, распаковать и положить его в директорию webdriver (в данный момент в проекте версия "104.0.5112.79" "chromedriver_mac64_m1.zip").**
-[Скачать версию "104.0.5112.79" chromedriver под свою ОС](https://chromedriver.storage.googleapis.com/index.html?path=104.0.5112.79/)
-[Другие версии chromedriver:](https://chromedriver.chromium.org/downloads)
+</br>[Скачать версию "104.0.5112.79" chromedriver под свою ОС](https://chromedriver.storage.googleapis.com/index.html?path=104.0.5112.79/)
+</br>[Другие версии chromedriver:](https://chromedriver.chromium.org/downloads)
 
 # Выполнение автоматизированных тестов
 ```bash
